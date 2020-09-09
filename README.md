@@ -2,7 +2,7 @@
 (text between brackets to be removed)
 
 > * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group participants names: Sandy Avila, Amy Giroux, Jay Havekost, and Cortnee Stainrod
 > * Project Title: (can be changed later)
 
 ## General Introduction
