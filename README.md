@@ -1,7 +1,7 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
+> * Group Name: The VR Mathronauts
 > * Group participants names: Sandy Avila, Amy Giroux, Jay Havekost, and Cortnee Stainrod
 > * Project Title: (can be changed later)
 
