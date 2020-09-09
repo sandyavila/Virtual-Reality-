@@ -3,7 +3,7 @@
 
 > * Group Name: The VR Mathronauts
 > * Group participants names: Sandy Avila, Amy Giroux, Jay Havekost, and Cortnee Stainrod
-> * Project Title: (can be changed later)
+> * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
 ## General Introduction
 
