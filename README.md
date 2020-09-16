@@ -66,6 +66,8 @@ Hwang, W. Y., & Hu, S. S. (2013). Analysis of peer learning behaviors using mult
 Kaufmann, H., Schmalstieg, D., & Wagner, M. (2000). Construct3D: a virtual reality application for mathematics and geometry education. Education and information technologies, 5(4), 263-276.
 
 Khan, M., Trujano, F., & Maes, P. (2018, June). Mathland: Constructionist Mathematical Learning in the Real World Using Immersive Mixed Reality. In International Conference on Immersive Learning (pp. 133-147). Springer, Cham.
+
+Hall, C. R., Stiles, R. J., & Horwitz, C. D. (1998, March). Virtual reality for training: Evaluating knowledge retention. In Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180) (pp. 184-189). IEEE.
 (Add the bibliographic references you intend to use in format you want)
 
 
