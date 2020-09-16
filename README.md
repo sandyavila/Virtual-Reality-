@@ -33,9 +33,9 @@ Research Questions:
 •	(Contribution 1)
 •	(Contribution 2)
 Justification-- This project could help:
-	Increase ease of learning
-	Decrease frustration with math
-Increase accessibility to STEM careers for underrepresented groups
+	(Increase ease of learning)
+	(Decrease frustration with math)
+(Increase accessibility to STEM careers for underrepresented groups)
 
 
 ## Related Work
