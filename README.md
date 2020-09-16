@@ -32,6 +32,10 @@ Research Questions:
 (This project makes the following contributions:)(you must have this!!)
 •	(Contribution 1)
 •	(Contribution 2)
+Justification-- This project could help:
+	Increase ease of learning
+	Decrease frustration with math
+Increase accessibility to STEM careers for underrepresented groups
 
 
 ## Related Work
