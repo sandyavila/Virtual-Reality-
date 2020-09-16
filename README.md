@@ -2,10 +2,18 @@
 (text between brackets to be removed)
 
 > * Group Name: The VR Mathronauts
-> * Group participants names: Sandy Avila, Amy Giroux, Jay Havekost, and Cortnee Stainrod
+> * Group participants names: Avila,sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
 ## General Introduction
+Purpose: 
+To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
+
+Research Questions:
+1) Cognitive load: How does VR affect cognitive load between low and high level algebraic math skill tasks?
+2) Performance/Perception: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
+3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
+4) Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
