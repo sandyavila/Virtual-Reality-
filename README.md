@@ -9,7 +9,7 @@
 Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
 
-Research Questions:
+##### Research Questions:
 1) Cognitive load: How does VR affect cognitive load between low and high level algebraic math skill tasks?
 2) Performance/Perception: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
 3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
@@ -22,12 +22,10 @@ Research Questions:
 Mathematics can be a divisive subject for students of all ages. There are often self-described "math people" and "non-math people" starting in primary school. Because of the nature of a cumulative field like mathematics, students who struggle with the foundational skills fall behind and often do not recover as they move through their education. These struggling students then do not feel comfortable working towards joining high math fields such as engineering, so they limit or change their future goals largely in part to their feelings about mathematics. Often, these students are of gender, ethnic, or cultural minorities, and already have hurdles to overcome as they consider career paths in STEM fields.
 Math curricula and supports have changed over time, often evolving from one hand-written worksheet to another. Traditional teaching methods and techniques such as "I do, we do, and you do" lessons still leave students behind ("I do" refers to the teacher showing example math problems, "we do" refers to the students and the teacher working through problems together, the "you do" refers to the students doing problems on their own). More modern approaches such as MathLabs and KhanAcademy give more feedback and guidance along the learning process, but still many not catch students who do not interact easily with numbers or have decided they are a "non-math person". There is a need in the field to have a more accessible, visual, and novel approach to teaching mathematics basics to give all learners a fair playing field and a full range of choices for future career paths.
 
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
-
+##### Problem Statement
 Foundational mathematics skills are critical for learners of all ages. Students in primary and secondary school may miss out on important Algebraic foundations, such as equation manipulation, which impedes their confidence and ability to prepare for careers in STEM. Schools need novel tools to help struggling students reach proficiency in base algebraic skills which will open the door for opportunities for many marginalized learners.
 
-(Motivation. Why is this problem interesting and relevant to the research community?)
-
+##### Motivation
 As one of the modern training tools used in military and industry applications, Virtual Reality (VR) training simulators are often not accessible or tailored to primary and secondary school daudiences. The few that are tailored for primary and secondary school aren't tackling Algebraic foundations.
 Foundational mathematics skills are critical for learners from all disciplines in order to contrast differences in material and build knowledge to support authentic learning. Authentic learning or project-based learning emphasizes learning through reflective content, activities, and assessments that are closely aligned to support the transfer of knowledge from formal education to practice (Reeves, Herrington & Oliver, 2002). Quite a few factors that affect transfer effectiveness is driven beyond the immediate process of “learning by doing”, and is often based on how the problem is represented, the metacognition of the student, or if the students simply memorizes the material (Azevedo, Mudrick, Taub, & Wortha, 2017; Johnson et al., 2012).
 
@@ -37,20 +35,19 @@ This launched an initiative across many school administrations to implement digi
 
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
 
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
-
+#####Proposed Solution
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
 
 (Contributions. An enumeration of the contributions of the senior design project)
 Our goals are to allow students to feel more comfortable with math, especially foundational skills that can be of great importance in their futures and potential career choices.
 
-Contributions
+##### Contributions
 This project makes the following contributions:
-	Increase ease of learning
-	Increase mathematics literacy
-	Decrease frustration with math
-	Increase accessibility to STEM careers for underrepresented groups
+	* Increase ease of learning
+	* Increase mathematics literacy
+	* Decrease frustration with math
+	* Increase accessibility to STEM careers for underrepresented groups
 
 
 
@@ -66,28 +63,29 @@ Complexity: There will be a statistically significant difference between high an
 
 
 ## Example Problems
-Easy (addition, subtraction, multiplication, and division. Variable only as numerator)
-3x + 5 = 7x - 3
+##### Easy
+(addition, subtraction, multiplication, and division. Variable only as numerator)
+* 3x + 5 = 7x - 3      (work through image needs added)
+* 24 - 8x = 6x - 4
+* −f+4+6f=10−4f
+* 3c+27.2=15.5+7c
+* 4a+5=2+3.25a
 
-24 - 8x = 6x - 4
-−f+4+6f=10−4f
-3c+27.2=15.5+7c
-4a+5=2+3.25a
+##### Medium
+(addition, subtraction, multiplication, and division. Variable includes fractions as coefficient. Equation may require distribution)
+* (3/4)x + 2 = (3/8)x - 4
+* (2/3)​b+5=20−b
+* 16−2t=(3/2)t+9
+* 5(z + 1) = 3(z + 2) + 11
+* (x – 2) / 4 – (3x + 5) / 7 = – 3
 
-Medium (addition, subtraction, multiplication, and division. Variable includes fractions as coefficient. Equation may require distribution)
-(3/4)x + 2 = (3/8)x - 4
-(2/3)​b+5=20−b
-16−2t=(3/2)t+9
-5(z + 1) = 3(z + 2) + 11
-(x – 2) / 4 – (3x + 5) / 7 = – 3
-
-Harder (addition, subtraction, multiplication, division, roots. Variable in the denominator. May be a formula that needs rearranging instead of an equation that can be solved)
-7 - 10/x = 2 + 15/x
-20/c  +  5 = 17 -  3/c
-5/x + 7 = 4/x - 9
-C=(5/9)(F−32)  Solve for F (temperature conversion formula)
-Solve for v (Coefficient of lift formula)
-
+##### Harder
+(addition, subtraction, multiplication, division, roots. Variable in the denominator. May be a formula that needs rearranging instead of an equation that can be solved)
+* 7 - 10/x = 2 + 15/x
+* 20/c  +  5 = 17 -  3/c
+* 5/x + 7 = 4/x - 9
+* C=(5/9)(F−32)  Solve for F (temperature conversion formula)
+* (image needs added)   Solve for v (Coefficient of lift formula)
 
 
 Extension/application could be making equation from word problems
