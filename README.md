@@ -1,7 +1,7 @@
 # Virtual Reality and Algebraic Visualizations
 (text between brackets to be removed)
 
-> * Group Name: The VR Mathronauts - 
+> * Group Name: The VR Mathronauts
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
@@ -89,8 +89,8 @@ Complexity: There will be a statistically significant difference between high an
 Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
-
-
+### Example
+![alt text](Images\test1.png)
 
 ## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
