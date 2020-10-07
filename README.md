@@ -5,8 +5,9 @@
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
+## Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
-### Purpose:
+##### Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
 
 ##### Research Questions:
