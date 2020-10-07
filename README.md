@@ -1,7 +1,7 @@
 # Virtual Reality and Algebraic Visualizations
 (text between brackets to be removed)
 
-> * Group Name: The VR Mathronauts
+> * Group Name: The VR Mathronauts -
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
@@ -10,20 +10,16 @@
 ##### Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
 
-##### Research Questions:
-1) Cognitive load: How does VR affect cognitive load between low and high level algebraic math skill tasks?
-2) Performance/Perception: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
-3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
-4) Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
 
 ## General Introduction
 Mathematics can be a divisive subject for students of all ages. There are often self-described "math people" and "non-math people" starting in primary school. Because of the nature of a cumulative field like mathematics, students who struggle with the foundational skills fall behind and often do not recover as they move through their education. These struggling students then do not feel comfortable working towards joining high math fields such as engineering, so they limit or change their future goals largely in part to their feelings about mathematics. Often, these students are of gender, ethnic, or cultural minorities, and already have hurdles to overcome as they consider career paths in STEM fields.
+
 Math curricula and supports have changed over time, often evolving from one hand-written worksheet to another. Traditional teaching methods and techniques such as "I do, we do, and you do" lessons still leave students behind ("I do" refers to the teacher showing example math problems, "we do" refers to the students and the teacher working through problems together, the "you do" refers to the students doing problems on their own). More modern approaches such as MathLabs and KhanAcademy give more feedback and guidance along the learning process, but still many not catch students who do not interact easily with numbers or have decided they are a "non-math person". There is a need in the field to have a more accessible, visual, and novel approach to teaching mathematics basics to give all learners a fair playing field and a full range of choices for future career paths.
 
 ##### Problem Statement
 Foundational mathematics skills are critical for learners of all ages. Students in primary and secondary school may miss out on important Algebraic foundations, such as equation manipulation, which impedes their confidence and ability to prepare for careers in STEM. Schools need novel tools to help struggling students reach proficiency in base algebraic skills which will open the door for opportunities for many marginalized learners.
 
-##### Motivation
+##### Justification
 As one of the modern training tools used in military and industry applications, Virtual Reality (VR) training simulators are often not accessible or tailored to primary and secondary school daudiences. The few that are tailored for primary and secondary school aren't tackling Algebraic foundations.
 Foundational mathematics skills are critical for learners from all disciplines in order to contrast differences in material and build knowledge to support authentic learning. Authentic learning or project-based learning emphasizes learning through reflective content, activities, and assessments that are closely aligned to support the transfer of knowledge from formal education to practice (Reeves, Herrington & Oliver, 2002). Quite a few factors that affect transfer effectiveness is driven beyond the immediate process of “learning by doing”, and is often based on how the problem is represented, the metacognition of the student, or if the students simply memorizes the material (Azevedo, Mudrick, Taub, & Wortha, 2017; Johnson et al., 2012).
 
@@ -32,9 +28,6 @@ For example, careers within Science, Technology, Engineering and Mathematics (ST
 This launched an initiative across many school administrations to implement digital platforms for teaching abstract concepts, improve student motivation, and develop essential competencies for STEM careers. However, simply learning STEM concepts with digital learning technologies does not correlate with authentic learning based on the notion of inquiry (Yoon et al., 2012). As more classrooms integrate advanced learning technologies (ALTs) (e.g., virtual and augmented reality, intelligent tutoring systems, and adaptive hypermedia) to support classroom learning, literature supports that technology applications must scope beyond user engagement, fidelity, task recollection, and user satisfaction (Add Citations). Therefore, a significant challenge within STEM education is addressing how to determine the specific representational and instructional needs of learners, and model a learning tool that supports authentic learning experiences to lead to increased transfer effectiveness.
 
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
-
-##### Proposed Solution
-Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
 
 (Contributions. An enumeration of the contributions of the senior design project)
@@ -54,13 +47,32 @@ This project makes the following contributions:
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 
-## Hypotheses:
+##### Research Questions:
+1) Cognitive load: How does VR affect cognitive load between low and high level algebraic math skill tasks?
+2) Performance/Perception: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
+3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
+4) Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
+
+
+## Methods
+
+
+Mixed methods etc. Placeholder
+
+
+
+##### Hypotheses:
 Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
+
 Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
+
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
 
-## Example Problems
+## Proposed Solution
+Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
+
+#### Example Problems
 ##### Easy
 (addition, subtraction, multiplication, and division. Variable only as numerator)
 * 3x + 5 = 7x - 3      (work through image needs added)
@@ -89,8 +101,8 @@ Complexity: There will be a statistically significant difference between high an
 Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
-### Example
-![alt text](Images\test1.png)
+
+
 
 ## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
