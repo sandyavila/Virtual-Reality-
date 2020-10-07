@@ -1,7 +1,7 @@
 # Virtual Reality and Algebraic Visualizations
 (text between brackets to be removed)
 
-> * Group Name: The VR Mathronauts - jay test
+> * Group Name: The VR Mathronauts - 
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
