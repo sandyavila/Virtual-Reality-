@@ -30,7 +30,7 @@ This launched an initiative across many school administrations to implement digi
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
 
 
-(Contributions. An enumeration of the contributions of the senior design project)
+
 Our goals are to allow students to feel more comfortable with math, especially foundational skills that can be of great importance in their futures and potential career choices.
 
 ##### Contributions
@@ -47,7 +47,7 @@ This project makes the following contributions:
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 
-##### Research Questions:
+#### Research Questions:
 1) Cognitive load: How does VR affect cognitive load between low and high level algebraic math skill tasks?
 2) Performance/Perception: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
 3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
@@ -61,7 +61,7 @@ Mixed methods etc. Placeholder
 
 
 
-##### Hypotheses:
+#### Hypotheses:
 Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
 
 Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
@@ -102,6 +102,8 @@ Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
 
+
+##### Storyboard Prototype
 ![alt text](Images/test1.png)
 
 ## Future Discussion
