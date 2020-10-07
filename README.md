@@ -1,12 +1,13 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Virtual Reality and Algebraic Visualizations
 (text between brackets to be removed)
 
 > * Group Name: The VR Mathronauts - jay test
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
-## General Introduction
-Purpose:
+## Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
+
+##### Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
 
 ##### Research Questions:
@@ -15,10 +16,7 @@ To supplement existing curriculum for manipulating algebraic expressions to bett
 3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
 4) Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
-
+## General Introduction
 Mathematics can be a divisive subject for students of all ages. There are often self-described "math people" and "non-math people" starting in primary school. Because of the nature of a cumulative field like mathematics, students who struggle with the foundational skills fall behind and often do not recover as they move through their education. These struggling students then do not feel comfortable working towards joining high math fields such as engineering, so they limit or change their future goals largely in part to their feelings about mathematics. Often, these students are of gender, ethnic, or cultural minorities, and already have hurdles to overcome as they consider career paths in STEM fields.
 Math curricula and supports have changed over time, often evolving from one hand-written worksheet to another. Traditional teaching methods and techniques such as "I do, we do, and you do" lessons still leave students behind ("I do" refers to the teacher showing example math problems, "we do" refers to the students and the teacher working through problems together, the "you do" refers to the students doing problems on their own). More modern approaches such as MathLabs and KhanAcademy give more feedback and guidance along the learning process, but still many not catch students who do not interact easily with numbers or have decided they are a "non-math person". There is a need in the field to have a more accessible, visual, and novel approach to teaching mathematics basics to give all learners a fair playing field and a full range of choices for future career paths.
 
@@ -35,7 +33,7 @@ This launched an initiative across many school administrations to implement digi
 
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
 
-#####Proposed Solution
+##### Proposed Solution
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
 
