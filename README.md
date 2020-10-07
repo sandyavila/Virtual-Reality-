@@ -102,7 +102,7 @@ Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
 
-
+![alt text](Images/test1.png)
 
 ## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
