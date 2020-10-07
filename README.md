@@ -1,4 +1,4 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Virtual Reality and Algebraic Visualizations
 (text between brackets to be removed)
 
 > * Group Name: The VR Mathronauts
