@@ -59,13 +59,13 @@ This project makes the following contributions:
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 
-##Hypotheses:
+## Hypotheses:
 Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
 Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
 
-##Example Problems
+## Example Problems
 Easy (addition, subtraction, multiplication, and division. Variable only as numerator)
 3x + 5 = 7x - 3
 
@@ -96,7 +96,7 @@ Extension/application could be making equation from word problems
 
 
 
-##Future Discussion
+## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
 
 
