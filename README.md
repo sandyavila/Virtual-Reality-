@@ -1,7 +1,7 @@
 # Virtual Reality and Algebraic Visualizations
 (text between brackets to be removed)
 
-> * Group Name: The VR Mathronauts - 
+> * Group Name: The VR Mathronauts -
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
@@ -24,7 +24,7 @@ Math curricula and supports have changed over time, often evolving from one hand
 ##### Problem Statement
 Foundational mathematics skills are critical for learners of all ages. Students in primary and secondary school may miss out on important Algebraic foundations, such as equation manipulation, which impedes their confidence and ability to prepare for careers in STEM. Schools need novel tools to help struggling students reach proficiency in base algebraic skills which will open the door for opportunities for many marginalized learners.
 
-##### Motivation
+##### Justification
 As one of the modern training tools used in military and industry applications, Virtual Reality (VR) training simulators are often not accessible or tailored to primary and secondary school daudiences. The few that are tailored for primary and secondary school aren't tackling Algebraic foundations.
 Foundational mathematics skills are critical for learners from all disciplines in order to contrast differences in material and build knowledge to support authentic learning. Authentic learning or project-based learning emphasizes learning through reflective content, activities, and assessments that are closely aligned to support the transfer of knowledge from formal education to practice (Reeves, Herrington & Oliver, 2002). Quite a few factors that affect transfer effectiveness is driven beyond the immediate process of “learning by doing”, and is often based on how the problem is represented, the metacognition of the student, or if the students simply memorizes the material (Azevedo, Mudrick, Taub, & Wortha, 2017; Johnson et al., 2012).
 
@@ -33,9 +33,6 @@ For example, careers within Science, Technology, Engineering and Mathematics (ST
 This launched an initiative across many school administrations to implement digital platforms for teaching abstract concepts, improve student motivation, and develop essential competencies for STEM careers. However, simply learning STEM concepts with digital learning technologies does not correlate with authentic learning based on the notion of inquiry (Yoon et al., 2012). As more classrooms integrate advanced learning technologies (ALTs) (e.g., virtual and augmented reality, intelligent tutoring systems, and adaptive hypermedia) to support classroom learning, literature supports that technology applications must scope beyond user engagement, fidelity, task recollection, and user satisfaction (Add Citations). Therefore, a significant challenge within STEM education is addressing how to determine the specific representational and instructional needs of learners, and model a learning tool that supports authentic learning experiences to lead to increased transfer effectiveness.
 
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
-
-##### Proposed Solution
-Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
 
 (Contributions. An enumeration of the contributions of the senior design project)
@@ -55,9 +52,20 @@ This project makes the following contributions:
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 
-## Hypotheses:
+
+## Methods
+
+
+##### Proposed Solution
+Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
+
+
+
+##### Hypotheses:
 Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
+
 Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
+
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
 
