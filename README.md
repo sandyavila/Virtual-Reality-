@@ -76,7 +76,7 @@ Teaching mathematics concepts, including the manipulation of equations has been 
 ##### Easy
 (addition, subtraction, multiplication, and division. Variable only as numerator)
 * 3x + 5 = 7x - 3      
-![Image of problem steps and answer](Images/Algebra easy example 1.png)
+![Image of problem steps and answer](Images/AlgebraEasyExample1.png)
 * 24 - 8x = 6x - 4
 * −f+4+6f=10−4f
 * 3c+27.2=15.5+7c
