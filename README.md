@@ -6,6 +6,8 @@
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
 ## Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
+![Image of Title Slide](Images/TitleSlide.png)
+[Alpha Review Presentation Slides](/VirtualRealityandAlgebraicVisualizations.pdf)
 
 ##### Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
