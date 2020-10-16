@@ -1,5 +1,4 @@
 # Virtual Reality and Algebraic Visualizations
-(text between brackets to be removed)
 
 > * Group Name: The VR Mathronauts -
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
@@ -73,21 +72,21 @@ VR is unique in which it can afford learners a multisensory experience with adap
 ## Methods
 
 
-####Materials, Tests, Tasks, and Stimuli
+#### Materials, Tests, Tasks, and Stimuli
 
 Questionnaires, Psychometric Tests, or Forms
 
-######The NASA-TLX (Hart & Staveland, 1988)
+###### The NASA-TLX (Hart & Staveland, 1988)
 The NASA Task Load Index (NASA-TLX) is a multidimensional scale for measuring workload consisting of six subscales representing independent variable clusters: Effort, frustration, mental demand, performance, physical demand, and temporal demand. These dimensions represent the workload of subjective experiences to predict individual task performance. Previous studies using the NASA-TLX have indicated reliability values in the .70 to .90 range, which demonstrates optimal reliability (Battiste & Bortolussi, 1988; Hoonakker et al., 2011; Xiao, Wang, Wang, & Lan, 2005)
 
-######The System Usability Scale (Brooke, 1996)
+###### The System Usability Scale (Brooke, 1996)
 The System Usability Scale (SUS) uses a Likert scale format consisting of 10 questions that range with five responses from “strongly agree” to “strongly disagree”. The SUS can be utilized as a tool to cover system usability, support and training.  Analysis across ten years of research indicated that the SUS demonstrated strong reliability for measuring usability of a system, Cronbach’s α = .91 (Bangor et al., 2009). The technique captures examples of extreme expressions on a spectrum. For example, the individual might be asked to respond to statements such as “I thought the system was easy to navigate” or “I can’t imagine myself using something like this”.
 
-######Technology Acceptance Model (TAM; Davis, 1989)
+###### Technology Acceptance Model (TAM; Davis, 1989)
 The Technology Acceptance Model (TAM) is used to help researchers assess likelihood of use for a piece of technology. The questionnaire consists of 2 parts with 6 items to measure usefulness and 6 items to measure ease of use. Participants are asked to provide their level of agreement on a 7-point Likert scale. Davis also demonstrated high reliability levels with perceived usefulness ranging from 0.92-0.98 and ease of use ranging from 0.90-0.94.
 
 
-####Experimental Design
+#### Experimental Design
 The experiment is a mixed design with a two-level between subjects factor (VR or Traditional instruction) and a two level within-subjects factor of complexity (All participants will go through both low and high complex algebraic equations).
 
 Independent Variable: Visualization tool (Oculus Rift)
@@ -108,7 +107,7 @@ Performance: There will be a statistically significant difference as measured by
 
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
-####Data Analysis:
+#### Data Analysis:
 
 Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influence of instruction methods on performance, workload, system usability and technology acceptance. Descriptive statistics (Means and Standard Deviations) anf correlations will also be used.
 
