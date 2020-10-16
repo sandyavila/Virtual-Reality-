@@ -46,7 +46,20 @@ This project makes the following contributions:
 
 ## Related Work
 
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
+Learning is considered an active process, inseparable from doing and a reflection of practical learner engagement to support deeper understanding (Mayer & Wittrock, 1996). The rapid development of advanced learning technologies (ALT’s) offer extensive opportunities for dynamic and informal learning. From serious games, hypermedia, intelligent tutoring systems, virtual and augmented reality, there is growing demand for the technologies across various domains and learning contexts. In the area of science, technology, engineering, and mathematics (STEM) education the technology development has encouraged initiatives for many school systems to turn to ALTs to support learning in this area.
+
+ALTs are fundamentally a simulated system for visualizing a subject area to aid in learning and ultimately enable better decision-making. In an education context, information visualization can be described as the cohesion of pedagogy and human cognitive and perceptual processes that are embodied and situated by targeted learning objectives. Independent of those learning objectives the visualizations must be principally guided by specific analytical, theoretical, and methodological behaviors (Azevedo & Gašević, 2019).
+
+Although VR technology offers more attractive ways to reinforce learning requirements there are certain risks, too (i.e., cognitive load, simulation sickness etc.). Experts are still trying to understand the impact and achievement value of VR on STEM learning. In addition, as the functionality and capabilities of technologies change over time, practical and ubiquitous implementation of the technology must be considered in order to guide decision-making about when and how virtual learning environments are effective (Saidin, Abd Halim, & Yahaya, 2015). VR challenges learners in unique ways, and interdisciplinary approaches must be taken in order to consider the contextual conditions (e.g., task, motivation and cognition), representational relationships, and negative learning consequences in order to foster meaningful experiences with the technology (Azevedo, et al., 2017).
+
+Research in the learning sciences has identified that people have different styles of learning. STEM subjects are unique in which they follow philosophies guided by the inquiry-based learning (IBL) approach. Essentially, IBL is a pedagogical method which connects scientific inquiry to cultivate problem solving through an open-ended and question driven process. IBL encourages learners to clarify, adapt and acquire concepts for scientific reasoning (e.g., literacy and argumentation) in pursuit to assess evidence, develop hypotheses, and generate theories (Chinn & Brewer, 2008). The activities associated with IBL are thought to increase learners’ scientific literacy, maintain long-term memory, increase autonomy, and facilitate real world skills (Prince, 2001).
+
+However, VR activities traditionally follow an constructivist learning approach rooted in  learning by doing. It is an active learning approach that involves having students perform actions rather than the traditional instructional style of the students being passive consumers of information (Minner et al., 2010). Active learning is thought to provide numerous benefits attributed to increased user attention, motivation and higher-order of thinking when analyzing, synthesizing, and evaluating information (Bonwell & Eison, 1991). However, using constructivist learning approaches alone shifts the learning responsibility to the student, and therefore impacts how the learner may understand and perceive the information. The self-directed process means students must independently discover the information opposed to guided through those learning principles (Bruner, 1990; Kirschner et al., 2006). The self-directed and autonomous learning  approach requires comprehensive understanding and awareness that is contingent on the capacity in which the learner takes initiative (or self-regulation) of their own learning.
+
+Educators argue against using constructivist strategies alone due to the underlying assumption that student-centered pedagogies are synonymous with directed learning approaches (Davis et al., 2015). Educators’ debate procedural heuristics (i.e., scientific method) is a process that must be explicitly taught to gain insight beyond contextual memorization in order to mindfully formulate connections between materials, and contrast real-world situations (McGregor, 2007; Hattie & Yates, 2014). Therefore if a student lacks metacognition or the opportunity to develop key learning principles in previous experiences, it is unlikely they will be able to perform significant investigations independently let alone with the technology.  
+
+VR is unique in which it can afford learners a multisensory experience with adaptive and aided visual prompts, that can lead to reduction in cognitive workload, and activate kinesthetic schemas through proprioceptive methods (Radu, 2012). The Visual, Auditory, and Kinesthetic (VAK) model takes a closer look at sensory inputs across learners, as some individuals perform best with visual stimuli, others with auditory, others with kinesthetic or tangible based interactions (Gholami, 2013). Through examining the spatial, cognitive processes of individual learners, this experiment will assist in understanding individual differences between psychomotor activity and comprehension as it relates to inquiry-based learning, and how that interaction coupled within a virtual environment impacts task performance.
+
 
 
 #### Research Questions:
@@ -139,4 +152,25 @@ Kaufmann, H., Schmalstieg, D., & Wagner, M. (2000). Construct3D: a virtual reali
 Khan, M., Trujano, F., & Maes, P. (2018, June). Mathland: Constructionist Mathematical Learning in the Real World Using Immersive Mixed Reality. In International Conference on Immersive Learning (pp. 133-147). Springer, Cham.
 
 Hall, C. R., Stiles, R. J., & Horwitz, C. D. (1998, March). Virtual reality for training: Evaluating knowledge retention. In Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180) (pp. 184-189). IEEE.
-(Add the bibliographic references you intend to use in format you want)
+
+Azevedo, R., & Gašević, D. (2019). Analyzing multimodal multichannel data about self-regulated learning with advanced learning technologies: Issues and challenges.
+
+Azevedo, R., Taub, M., Mudrick, N. V., Millar, G. C., Bradbury, A. E., & Price, M. J. (2017). Using data visualizations to foster emotion regulation during self-regulated learning with advanced learning technologies. In Informational environments (pp. 225-247). Springer, Cham.
+
+Mayer, R. E., & Wittrock, M. C. (1996). Problem solving transfer. In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 47–62). New York: Macmillan.
+
+Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8.
+
+Chinn, C. A., & Brewer, W. F. (2008). The role of anomalous data in knowledge acquisition: a theoretical framework and implications for science instruction. Review of Educational Research, 63(1), 1–49.
+
+Bonwell, C. C., & Eison, J. A. (1991). Active Learning: Creating Excitement in the Classroom. ERIC Digest.
+
+Bruner, J. (1990). Acts of meaning. Harvard University Press, Cambridge.
+
+Kirschner , P., Sweller, J., & Clark, R.E. (2006). Why minimal guidance during instruction does not work: an analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching, Educational Psychologist, 4(2), 75-86.
+
+Hattie, J., Yates, G., (2014). Using feedback to promote learning: applying science of learning in education: infusing psychological science into the curriculum. Technological Psychology, 45–58.
+
+Radu, I. (2012). Why should my students use AR? A comparative review of the educational impacts of augmented-reality. 2012 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Mixed and Augmented Reality (ISMAR),  IEEE International Symposium, 313.
+
+Gholami, S., & Bagheri, M. S. (2013). Relationship between VAK learning styles and problem solving styles regarding gender and students’ fields of study. Journal of Language Teaching and Research, 4(4), 700-706.
