@@ -89,6 +89,9 @@ The Technology Acceptance Model (TAM) is used to help researchers assess likelih
 #### Experimental Design
 The experiment is a mixed design with a two-level between subjects factor (VR or Traditional instruction) and a two level within-subjects factor of complexity (All participants will go through both low and high complex algebraic equations).
 
+Procedure:
+Two sets of users will go through the experiment​. One will work through algebraic problems on paper while the other will use the VR tool. 
+
 Independent Variable: Visualization tool (Oculus Rift)
 
 Dependent Variable: Algebraic Equation Complexity
