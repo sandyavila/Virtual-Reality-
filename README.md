@@ -70,7 +70,12 @@ VR is unique in which it can afford learners a multisensory experience with adap
 
 
 ## Methods
-
+With our research project requiring the creation of a VR tool to help assess the value of introducing immersive technology to assist secondary students with algebraic mathematical foundations, our study will include a mixed methods approach. In looking first at our participants, we would be seeking research subjects that are secondary school aged students with varying degrees of knowledge with algebra. The materials our research experiment would require include running half of our participants through a traditional paper math test with differing degrees of complexity, spanning from easy, to medium, to advanced algebraic math problem solving. The other half of the group would be run through the same math problem solving at the same levels of complexity, but through an online VR tool generated in Unity and utilizing the Oculus Rift headset and hand controllers. Our research design is meant to be a mixed design model with two level between-subjects factor as previously noted. 
+In providing some context for our procedure, running two sets of users through our experiment also will include asking participants questions in a pre and post assessment survey format, to gauge where participants are with their overall feeling of their performance based on either a traditional versus immersive technology approach. Our independent variable is the VR technology with dependent variables being performance and situational awareness. 
+Our expected outcomes are as follows regarding three areas of consideration on cognitive load, performance, and complexity: 
+Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
+Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
+Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
 #### Materials, Tests, Tasks, and Stimuli
 
