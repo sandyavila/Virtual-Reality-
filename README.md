@@ -70,10 +70,10 @@ VR is unique in which it can afford learners a multisensory experience with adap
 
 
 ## Methods
-With our research project requiring the creation of a VR tool to help assess the value of introducing immersive technology to assist secondary students with algebraic mathematical foundations, our study will include a mixed methods approach. In taking a mixed method approach, the gathering of both qualitative and quantitative data will be obtained through a series of surveys to assess participant reflections for non-numerical data finding. In addition, utlizing a variety of test that will be noted below, our study will gather qualitative data on user performance. In looking first at our participants, we would be seeking research subjects that are secondary school aged students with varying degrees of knowledge with algebra. The materials our research experiment would require include running half of our participants through a traditional paper math test with differing degrees of complexity, spanning from easy, to medium, to advanced algebraic math problem solving. The other half of the group would be run through the same math problem solving at the same levels of complexity, but through an online VR tool generated in Unity and utilizing the Oculus Rift headset and hand controllers. Our research design is meant to be a mixed design model with two level between-subjects factor. 
+With our research project requiring the creation of a VR tool to help assess the value of introducing immersive technology to assist secondary students with algebraic mathematical foundations, our study will include a mixed methods approach. In taking a mixed method approach, the gathering of both qualitative and quantitative data will be obtained through a series of surveys to assess participant reflections for non-numerical data finding. In addition, utlizing a variety of test that will be noted below, our study will gather qualitative data on user performance. In looking first at our participants, we would be seeking research subjects that are secondary school aged students with varying degrees of knowledge with algebra. The materials our research experiment would require include running half of our participants through a traditional paper math test with differing degrees of complexity, spanning from easy, to medium, to advanced algebraic math problem solving. The other half of the group would be run through the same math problem solving at the same levels of complexity, but through an online VR tool generated in Unity and utilizing the Oculus Rift headset and hand controllers. Our research design is meant to be a mixed design model with two level between-subjects factor.
 
-In providing some context for our procedure, running two sets of users through our experiment also will include asking participants questions in a pre and post assessment survey format, to gauge where participants are with their overall feeling of their performance based on either a traditional versus immersive technology approach. Our independent variable is the VR technology with dependent variables being performance and situational awareness. 
-Our expected outcomes are as follows regarding three areas of consideration on cognitive load, performance, and complexity: 
+In providing some context for our procedure, running two sets of users through our experiment also will include asking participants questions in a pre and post assessment survey format, to gauge where participants are with their overall feeling of their performance based on either a traditional versus immersive technology approach. Our independent variable is the VR technology with dependent variables being performance and situational awareness.
+Our expected outcomes are as follows regarding three areas of consideration on cognitive load, performance, and complexity:
 Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
 Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
@@ -96,7 +96,7 @@ The Technology Acceptance Model (TAM) is used to help researchers assess likelih
 The experiment is a mixed design with a two-level between subjects factor (VR or Traditional instruction) and a two level within-subjects factor of complexity (All participants will go through both low and high complex algebraic equations).
 
 Procedure:
-Two sets of users will go through the experiment​. One will work through algebraic problems on paper while the other will use the VR tool. 
+Two sets of users will go through the experiment​. One will work through algebraic problems on paper while the other will use the VR tool.
 
 Independent Variable: Visualization tool (Oculus Rift)
 
@@ -123,6 +123,10 @@ Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influen
 
 ## Proposed Solution
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
+
+##### Unity Prototype
+![Screenshot of VR experience prototype. Goal: Isolate x](Images/test1.png)
+![Screenshot of VR experience prototype with four function toolbar](Images/UpdatedVRexample.png)
 
 #### Example Problems
 ##### Easy
@@ -155,9 +159,6 @@ Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
 
-
-##### Unity Prototype
-![Screenshot of VR experience prototype](Images/test1.png)
 
 ## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
