@@ -128,50 +128,49 @@ Practical Application: How does VR help learners understand algebraic skills and
 
 
 ## References
-References
-
-Kuo, H. C., Tseng, Y. C., & Yang, Y. T. C. (2019). Promoting college student’s learning motivation and creativity through a STEM interdisciplinary PBL human-computer interaction system design and development course. Thinking Skills and Creativity, 31, 1-10.
-
-Ibáñez, M. B., & Delgado-Kloos, C. (2018). Augmented reality for STEM learning: A systematic review. Computers & Education, 123, 109-123.
-
-Barrett, R., Gandhi, H. A., Naganathan, A., Daniels, D., Zhang, Y., Onwunaka, C., ... & White, A. D. (2018). Social and tactile mixed reality increases student engagement in undergraduate lab activities. Journal of Chemical Education, 95(10), 1755-1762.
-
-Miller, D., & Dousay, T. (2015). Implementing augmented reality in the classroom. Issues and Trends in Educational Technology, 3(2).
 
 Antonioli, M., Blake, C., & Sparks, K. (2014). Augmented reality applications in education. The Journal of Technology Studies, 96-107.
-
-Lai, A. F., Chen, C. H., & Lee, G. Y. (2019). An augmented reality‐based learning approach to enhancing students’ science reading performances from the perspective of the cognitive load theory. British Journal of Educational Technology, 50(1), 232-247.
-
-Burrows, A., Lockwood, M., Borowczak, M., Janak, E., & Barber, B. (2018). Integrated STEM: Focus on informal education and community collaboration through engineering. Education Sciences, 8(1), 4.
-
-Jackson, C., Appelgate, M., Seiler, G., Sheth, M., & Nadolny, L. (2016). Using a Virtual Environment to Uncover Biases, Assumptions, and Beliefs and Implications for Mathematics Teaching. Conference Papers -- Psychology of Mathematics & Education of North America, 1333–1336.
-
-Hwang, W. Y., & Hu, S. S. (2013). Analysis of peer learning behaviors using multiple representations in virtual reality and their impacts on geometry problem solving. Computers & Education, 62, 308-319.
-
-Kaufmann, H., Schmalstieg, D., & Wagner, M. (2000). Construct3D: a virtual reality application for mathematics and geometry education. Education and information technologies, 5(4), 263-276.
-
-Khan, M., Trujano, F., & Maes, P. (2018, June). Mathland: Constructionist Mathematical Learning in the Real World Using Immersive Mixed Reality. In International Conference on Immersive Learning (pp. 133-147). Springer, Cham.
-
-Hall, C. R., Stiles, R. J., & Horwitz, C. D. (1998, March). Virtual reality for training: Evaluating knowledge retention. In Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180) (pp. 184-189). IEEE.
 
 Azevedo, R., & Gašević, D. (2019). Analyzing multimodal multichannel data about self-regulated learning with advanced learning technologies: Issues and challenges.
 
 Azevedo, R., Taub, M., Mudrick, N. V., Millar, G. C., Bradbury, A. E., & Price, M. J. (2017). Using data visualizations to foster emotion regulation during self-regulated learning with advanced learning technologies. In Informational environments (pp. 225-247). Springer, Cham.
 
-Mayer, R. E., & Wittrock, M. C. (1996). Problem solving transfer. In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 47–62). New York: Macmillan.
-
-Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8.
-
-Chinn, C. A., & Brewer, W. F. (2008). The role of anomalous data in knowledge acquisition: a theoretical framework and implications for science instruction. Review of Educational Research, 63(1), 1–49.
+Barrett, R., Gandhi, H. A., Naganathan, A., Daniels, D., Zhang, Y., Onwunaka, C., ... & White, A. D. (2018). Social and tactile mixed reality increases student engagement in undergraduate lab activities. Journal of Chemical Education, 95(10), 1755-1762.
 
 Bonwell, C. C., & Eison, J. A. (1991). Active Learning: Creating Excitement in the Classroom. ERIC Digest.
 
 Bruner, J. (1990). Acts of meaning. Harvard University Press, Cambridge.
 
-Kirschner , P., Sweller, J., & Clark, R.E. (2006). Why minimal guidance during instruction does not work: an analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching, Educational Psychologist, 4(2), 75-86.
+Burrows, A., Lockwood, M., Borowczak, M., Janak, E., & Barber, B. (2018). Integrated STEM: Focus on informal education and community collaboration through engineering. Education Sciences, 8(1), 4.
+
+Chinn, C. A., & Brewer, W. F. (2008). The role of anomalous data in knowledge acquisition: a theoretical framework and implications for science instruction. Review of Educational Research, 63(1), 1–49.
+
+Gholami, S., & Bagheri, M. S. (2013). Relationship between VAK learning styles and problem solving styles regarding gender and students’ fields of study. Journal of Language Teaching and Research, 4(4), 700-706.
+
+Hall, C. R., Stiles, R. J., & Horwitz, C. D. (1998, March). Virtual reality for training: Evaluating knowledge retention. In Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180) (pp. 184-189). IEEE.
 
 Hattie, J., Yates, G., (2014). Using feedback to promote learning: applying science of learning in education: infusing psychological science into the curriculum. Technological Psychology, 45–58.
 
+Hwang, W. Y., & Hu, S. S. (2013). Analysis of peer learning behaviors using multiple representations in virtual reality and their impacts on geometry problem solving. Computers & Education, 62, 308-319.
+
+Ibáñez, M. B., & Delgado-Kloos, C. (2018). Augmented reality for STEM learning: A systematic review. Computers & Education, 123, 109-123.
+
+Jackson, C., Appelgate, M., Seiler, G., Sheth, M., & Nadolny, L. (2016). Using a Virtual Environment to Uncover Biases, Assumptions, and Beliefs and Implications for Mathematics Teaching. Conference Papers -- Psychology of Mathematics & Education of North America, 1333–1336.
+
+Kaufmann, H., Schmalstieg, D., & Wagner, M. (2000). Construct3D: a virtual reality application for mathematics and geometry education. Education and information technologies, 5(4), 263-276.
+
+Khan, M., Trujano, F., & Maes, P. (2018, June). Mathland: Constructionist Mathematical Learning in the Real World Using Immersive Mixed Reality. In International Conference on Immersive Learning (pp. 133-147). Springer, Cham.
+
+Kirschner , P., Sweller, J., & Clark, R.E. (2006). Why minimal guidance during instruction does not work: an analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching, Educational Psychologist, 4(2), 75-86.
+
+Kuo, H. C., Tseng, Y. C., & Yang, Y. T. C. (2019). Promoting college student’s learning motivation and creativity through a STEM interdisciplinary PBL human-computer interaction system design and development course. Thinking Skills and Creativity, 31, 1-10.
+
+Lai, A. F., Chen, C. H., & Lee, G. Y. (2019). An augmented reality‐based learning approach to enhancing students’ science reading performances from the perspective of the cognitive load theory. British Journal of Educational Technology, 50(1), 232-247.
+
+Mayer, R. E., & Wittrock, M. C. (1996). Problem solving transfer. In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 47–62). New York: Macmillan.
+
+Miller, D., & Dousay, T. (2015). Implementing augmented reality in the classroom. Issues and Trends in Educational Technology, 3(2).
+
 Radu, I. (2012). Why should my students use AR? A comparative review of the educational impacts of augmented-reality. 2012 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Mixed and Augmented Reality (ISMAR),  IEEE International Symposium, 313.
 
-Gholami, S., & Bagheri, M. S. (2013). Relationship between VAK learning styles and problem solving styles regarding gender and students’ fields of study. Journal of Language Teaching and Research, 4(4), 700-706.
+Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8.
