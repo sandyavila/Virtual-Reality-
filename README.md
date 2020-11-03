@@ -158,7 +158,7 @@ Teaching mathematics concepts, including the manipulation of equations has been 
 Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
-
+## Conclusion
 
 ## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
