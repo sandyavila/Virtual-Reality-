@@ -11,7 +11,7 @@
 [Alpha Review Presentation Slides](/VirtualRealityandAlgebraicVisualizations.pdf)
 
 ##### Purpose:
-To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
+To supplement existing curriculum for manipulating algebraic expressions so learners may better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebraic manipulation was chosen as it is an important foundational skill used in mathematics and other STEM fields.
 
 
 ## General Introduction
