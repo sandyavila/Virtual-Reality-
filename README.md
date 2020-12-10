@@ -1,10 +1,10 @@
-# Virtual Reality and Algebraic Visualizations
+# Learning Algebraic Manipulation through Movement in Virtual Reality Spaces​
 
 > * Group Name: The VR Mathronauts -
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
-> * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
+> * Project Title: Learning Algebraic Manipulation through Movement in Virtual Reality Spaces​
 
-## Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
+## Learning Algebraic Manipulation through Movement in Virtual Reality Spaces​
 ![Image of Title Slide](Images/TitleSlide.png)
 [Alpha Review Presentation Slides](/VirtualRealityandAlgebraicVisualizations.pdf)
 
