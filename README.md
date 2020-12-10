@@ -126,6 +126,8 @@ Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influen
 ## Proposed Solution
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
+During our brainstorming process, we used simple drawings to visualize how to develop our VR tool. (Shown below)
+
 ##### Unity Prototype
 <img src="Images/test1.png" width="75%" height="75%"/>
 <img src="Images/UpdatedVRexample.png" width="75%" height="75%"/>
