@@ -5,9 +5,8 @@
 > * Project Title: Learning Algebraic Manipulation through Movement in Virtual Reality Spaces​
 
 ## Learning Algebraic Manipulation through Movement in Virtual Reality Spaces​
-![Image of Title Slide](Images/TitleSlide.png)
+![Image of Final Title Slide](Images/FinalTitleSlide.png)
 [Final Presentation Slides](/LearningAlgebraicManipulationThroughMovementinVirtualRealitySpaces.pdf)
-
 [Alpha Review Presentation Slides](/VirtualRealityandAlgebraicVisualizations.pdf)
 
 ##### Purpose:
