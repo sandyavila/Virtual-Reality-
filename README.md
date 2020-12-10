@@ -167,6 +167,8 @@ During our brainstorming process, we used simple drawings to visualize how to de
 Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9EwWUbGBoI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Conclusion
 
 ## Future Discussion
