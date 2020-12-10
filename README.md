@@ -80,6 +80,9 @@ Cognitive Load: There will be a statistically significant difference in cognitiv
 Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
+#### Equipment or Apparatus
+
+
 #### Materials, Tests, Tasks, and Stimuli
 
 Questionnaires, Psychometric Tests, or Forms
@@ -127,6 +130,8 @@ Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influen
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
 During our brainstorming process, we used simple drawings to visualize how to develop our VR tool. (Shown below)
+
+
 ![Animated Image of Conceptual Tool](/Images/VRBrainstormAnimatedBorder.gif)
 ##### Unity Prototype
 <img src="Images/test1.png" width="75%" height="75%"/>
@@ -220,10 +225,12 @@ Radu, I. (2012). Why should my students use AR? A comparative review of the educ
 
 Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8.
 
+Sweller, J. (1989). Cognitive technology: Some procedures for facilitating learning and problem solving in mathematics and science. Journal of educational psychology, 81(4), 457.
+
 Wilson, Robert A. and Lucia Foglia, "Embodied Cognition", The Stanford Encyclopedia of Philosophy (Spring 2017 Edition), Edward N. Zalta (ed.)
 
 ​
 
-Griss, S. 2013. The power of movement in teaching and learning. EdWeek. http://bit.ly/2nRDjPE​
+
 
 ​
