@@ -184,6 +184,8 @@ Chinn, C. A., & Brewer, W. F. (2008). The role of anomalous data in knowledge ac
 
 Gholami, S., & Bagheri, M. S. (2013). Relationship between VAK learning styles and problem solving styles regarding gender and students’ fields of study. Journal of Language Teaching and Research, 4(4), 700-706.
 
+Griss, S. 2013. The power of movement in teaching and learning. EdWeek. http://bit.ly/2nRDjPE​
+
 Hall, C. R., Stiles, R. J., & Horwitz, C. D. (1998, March). Virtual reality for training: Evaluating knowledge retention. In Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180) (pp. 184-189). IEEE.
 
 Hattie, J., Yates, G., (2014). Using feedback to promote learning: applying science of learning in education: infusing psychological science into the curriculum. Technological Psychology, 45–58.
@@ -204,6 +206,8 @@ Kuo, H. C., Tseng, Y. C., & Yang, Y. T. C. (2019). Promoting college student’s
 
 Lai, A. F., Chen, C. H., & Lee, G. Y. (2019). An augmented reality‐based learning approach to enhancing students’ science reading performances from the perspective of the cognitive load theory. British Journal of Educational Technology, 50(1), 232-247.
 
+Marshall, J. C., Horton, B., & Smart, J. (2008). 4E x 2 Instructional Model: Uniting Three Learning Constructs to Improve Praxis in Science and Mathematics Classrooms. Springer Science+Business Media, B.V.​
+
 Mayer, R. E., & Wittrock, M. C. (1996). Problem solving transfer. In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 47–62). New York: Macmillan.
 
 Miller, D., & Dousay, T. (2015). Implementing augmented reality in the classroom. Issues and Trends in Educational Technology, 3(2).
@@ -211,3 +215,11 @@ Miller, D., & Dousay, T. (2015). Implementing augmented reality in the classroom
 Radu, I. (2012). Why should my students use AR? A comparative review of the educational impacts of augmented-reality. 2012 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Mixed and Augmented Reality (ISMAR),  IEEE International Symposium, 313.
 
 Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8.
+
+Wilson, Robert A. and Lucia Foglia, "Embodied Cognition", The Stanford Encyclopedia of Philosophy (Spring 2017 Edition), Edward N. Zalta (ed.)
+
+​
+
+Griss, S. 2013. The power of movement in teaching and learning. EdWeek. http://bit.ly/2nRDjPE​
+
+​
