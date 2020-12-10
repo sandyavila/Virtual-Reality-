@@ -7,6 +7,7 @@
 ## Learning Algebraic Manipulation through Movement in Virtual Reality Spaces​
 ![Image of Title Slide](Images/TitleSlide.png)
 [Final Presentation Slides](/LearningAlgebraicManipulationThroughMovementinVirtualRealitySpaces.pdf)
+
 [Alpha Review Presentation Slides](/VirtualRealityandAlgebraicVisualizations.pdf)
 
 ##### Purpose:
