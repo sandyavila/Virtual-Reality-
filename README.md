@@ -131,15 +131,25 @@ Measures:
 * Technology Acceptance Model
 * Demographics Survey
 
+## Experimental Procedure:
+### Conducting the Experimental
+#### Training Task:
+Once participants have been briefed on the experiment, they participants will be allowed to use the technology until they feel comfortable with it. They will be allowed to explore the functionality of the technology, use of controllers, in addition to previewing basic algebraic symbology (division, addition, subtraction) on a PowerPoint slide. Each participant will be given 30 minutes from the initial start time.
 
-Procedure:
-Two sets of users will go through the experiment​. One will work through algebraic problems on paper while the other will use the VR tool.
+ To control for order effects a full counterbalanced design structure will be used for both the selection of technology (one per participant) and the administration of complexity level for each of the scenario orderings.
 
+#### Procedure:
+Upon arriving at the experiment location, participants will come in and receive a short briefing on the activities that they will do. All scenario and participant orderings will be assigned to determine when they will go through both conditions. Participants will be given time to train on the technology described previously. Once instructed to begin the task, the clock will start and participants will answer questions about different algebraic scenarios, one in both experimental condition. The participant will be asked to respond out loud highlighting their decision making process for each question. After each condition, the participants will be given a post-test: the NASA-TLX, SUS, Simulation Sickness Survey and TAM. Performance time will be measured via stopwatch. Accuracy will be measured by percentage correct of the scenario-based questions
 
+![Participant Time Schedule](/Images/ParticipantTimeSchedule.png)
+
+#### Scenarios:
+For the task - each scenario presented they will be asked practical questions related to the equations. Participants will respond to these questions in a multiple choice format. There will be a total of three scenarios with approximately five to ten questions per scenario. Each scenario will have the same number of questions.
+
+(Tool images)
 
 #### Data Analysis:
-
-Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influence of instruction methods on performance, workload, system usability and technology acceptance. Descriptive statistics (Means and Standard Deviations) anf correlations will also be used.
+Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influence of instruction methods on performance, workload, system usability and technology acceptance. Descriptive statistics (Means and Standard Deviations) and correlations will also be used.
 
 
 ## Proposed Solution
@@ -184,6 +194,9 @@ Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
 [Link to YouTube Video of Tool in Use ](https://youtu.be/C9EwWUbGBoI)
+
+## Expected Research Study results
+
 
 ## Conclusion
 
