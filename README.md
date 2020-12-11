@@ -196,7 +196,7 @@ Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
 ![Medium VR Tool Example](Images/VideoTitleSnip.jpg)
-![Images/VideoTitleSnip.jpg](https://youtu.be/C9EwWUbGBoI)
+![(Images/VideoTitleSnip.jpg)](https://youtu.be/C9EwWUbGBoI)
 
 ## Expected Research Study results
 
