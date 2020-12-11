@@ -131,8 +131,8 @@ Measures:
 * Technology Acceptance Model
 * Demographics Survey
 
-## Experimental Procedure:
-### Conducting the Experimental
+## Experimental Procedures:
+
 #### Training Task:
 Once participants have been briefed on the experiment, they participants will be allowed to use the technology until they feel comfortable with it. They will be allowed to explore the functionality of the technology, use of controllers, in addition to previewing basic algebraic symbology (division, addition, subtraction) on a PowerPoint slide. Each participant will be given 30 minutes from the initial start time.
 
