@@ -195,7 +195,7 @@ Extension/application could be making equation from word problems
 
 ![Medium VR Tool Example](Images/VideoTitleSnip.jpg)
 
-![Link to VR Tool Demonstration Video](https://youtu.be/C9EwWUbGBoI)
+[Link to VR Tool Demonstration Video](https://youtu.be/C9EwWUbGBoI)
 
 ## Expected Research Study results
 Our team was not able to complete a fully operational VR tool that could be run through a proper research study. However, in using the above related works which speak to our project’s hypotheses we can expect our VR application to perform in the following ways based on the three main areas of our research questions and proposed hypotheses:  
