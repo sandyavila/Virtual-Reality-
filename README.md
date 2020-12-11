@@ -74,7 +74,12 @@ VR is unique in which it can afford learners a multisensory experience with adap
 2) Performance/Perception: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
 3) Complexity: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
 
+#### Hypotheses:
+Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
 
+Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
+
+Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
 ## Methods
 With our research project requiring the creation of a VR tool to help assess the value of introducing immersive technology to assist secondary students with algebraic mathematical foundations, our study will include a mixed methods approach. In taking a mixed method approach, the gathering of both qualitative and quantitative data will be obtained through a series of surveys to assess participant reflections for non-numerical data finding. In addition, utlizing a variety of test that will be noted below, our study will gather qualitative data on user performance. In looking first at our participants, we would be seeking research subjects that are secondary school aged students with varying degrees of knowledge with algebra. The materials our research experiment would require include running half of our participants through a traditional paper math test with differing degrees of complexity, spanning from easy, to medium, to advanced algebraic math problem solving. The other half of the group would be run through the same math problem solving at the same levels of complexity, but through an online VR tool generated in Unity and utilizing the Oculus Rift headset and hand controllers. Our research design is meant to be a mixed design model with two level between-subjects factor.
@@ -114,9 +119,6 @@ Gauges what extent participants experience motion sickness. The questionnaire co
 #### Experimental Design
 The experiment is a mixed design with a two-level between subjects factor (VR or Traditional instruction) and a two level within-subjects factor of complexity (All participants will go through both low and high complex algebraic equations).
 
-Procedure:
-Two sets of users will go through the experiment​. One will work through algebraic problems on paper while the other will use the VR tool.
-
 Independent Variable: Visualization tool (Oculus Rift)
 
 Dependent Variable: Algebraic Equation Complexity
@@ -125,15 +127,15 @@ Measures:
 * Percentage of correct answers (accuracy)
 * Response time
 * NASA-TLX after each equation example
-* SUS
-* TAM
+* System Usability Scale
+* Technology Acceptance Model
+* Demographics Survey
 
-#### Hypotheses:
-Cognitive Load: There will be a statistically significant difference in cognitive load, such that the VR condition will have lower NASA-TLX scores than the traditional paper format.
 
-Performance: There will be a statistically significant difference as measured by performance (ie: response time and time on task) that under the VR condition due to ease of use, reduction of cognitive load, and improved spatial awareness.
+Procedure:
+Two sets of users will go through the experiment​. One will work through algebraic problems on paper while the other will use the VR tool.
 
-Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
+
 
 #### Data Analysis:
 
