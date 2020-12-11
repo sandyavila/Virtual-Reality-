@@ -146,8 +146,6 @@ Upon arriving at the experiment location, participants will come in and receive 
 #### Scenarios:
 For the task - each scenario presented they will be asked practical questions related to the equations. Participants will respond to these questions in a multiple choice format. There will be a total of three scenarios with approximately five to ten questions per scenario. Each scenario will have the same number of questions.
 
-(Tool images)
-
 #### Data Analysis:
 Repeated Measure Analysis of Variance (ANOVA) will be used to assess the influence of instruction methods on performance, workload, system usability and technology acceptance. Descriptive statistics (Means and Standard Deviations) and correlations will also be used.
 
@@ -200,9 +198,23 @@ Extension/application could be making equation from word problems
 ![Link to VR Tool Demonstration Video](https://youtu.be/C9EwWUbGBoI)
 
 ## Expected Research Study results
+Our team was not able to complete a fully operational VR tool that could be run through a proper research study. However, in using the above related works which speak to our project’s hypotheses we can expect our VR application to perform in the following ways based on the three main areas of our research questions and proposed hypotheses:  
+
+##### Cognitive Load:
+Research Question: How does VR affect cognitive load between low and high level algebraic math skill tasks?
+Our VR application will provide participants with a significant decrease in cognitive load as they walk through algebraic formula equations using the technology compared to the traditional paper format learning exercise. As the complexity level of the math skills increase, we can expect that learners using the VR application will also see a significant decrease in cognitive load as the technology should assist the learners through difficult steps by way of assisted tutorials and online help tools. When comparing the NASA-TLX scores among participants, we can assume those running through the VR condition would have lower scores compared to the traditional format.  
+##### Performance:
+Research Question: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
+Our VR application will guide learners to perform better by having a lower time on task and quicker response time compared to those participants taking traditional paper tests. The VR tools will allow users to have an improved spatial awareness which will help their performance on algebraic formula manipulations.
+##### Complexity:
+Research Question: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
+In comparing the differences between low and high level complexity algebraic math skill tasks using VR, we can assume that our learners will handle the complex skills more easily based on the assisted tutorials and through the ease of use of an immersive, kinetic learning environment.
 
 
 ## Conclusion
+Through the course of the project it became clear that further development of a VR tool such as ours, to assist in algebraic equation formulation learning, is both achievable and necessary. In reviewing related literature on other teaching tools to aid in foundational mathematics skill building, technology plays a vital role in a student’s overall understanding and interest in learning math. If a VR tool can be utilized to supplement existing curriculum for manipulating algebraic expressions, this will increase accessibility for mathematics to help learner performance and to aid in the transfer of knowledge.
+
+In conclusion, the biggest lesson learned was that as the complexity in the algebra problem increased, the code development time also increased greatly and our initial concept of what a hard problem would be, became a bit ambitious. There is potential to leverage existing tools like Wolfram Alpha API to handle more of the mathematical processing. Performing tasks in a digital environment allows for an increased amount of data to be gathered, which can then be used in the measurement of performance.
 
 ## Future Discussion
 Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
