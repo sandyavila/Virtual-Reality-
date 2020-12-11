@@ -172,6 +172,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 * −f+4+6f=10−4f
 * 3c+27.2=15.5+7c
 * 4a+5=2+3.25a
+![Easy VR Tool Example](Images/EasyToolSnip.png)
 
 ##### Medium
 (addition, subtraction, multiplication, and division. Variable includes fractions as coefficient. Equation may require distribution)
@@ -180,6 +181,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 * 16−2t=(3/2)t+9
 * 5(z + 1) = 3(z + 2) + 11
 * (x – 2) / 4 – (3x + 5) / 7 = – 3
+![Medium VR Tool Example](Images/MediumToolSnip.png)
 
 ##### Harder
 (addition, subtraction, multiplication, division, roots. Variable in the denominator. May be a formula that needs rearranging instead of an equation that can be solved)
@@ -193,6 +195,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 Extension/application could be making equation from word problems
 (ie. https://www.purplemath.com/modules/variable.htm (Links to an external site.))
 
+![Medium VR Tool Example](Images/VideoTitleSnip.jpg)
 [Link to YouTube Video of Tool in Use ](https://youtu.be/C9EwWUbGBoI)
 
 ## Expected Research Study results
