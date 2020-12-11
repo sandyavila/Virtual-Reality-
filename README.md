@@ -217,7 +217,14 @@ Through the course of the project it became clear that further development of a 
 In conclusion, the biggest lesson learned was that as the complexity in the algebra problem increased, the code development time also increased greatly and our initial concept of what a hard problem would be, became a bit ambitious. There is potential to leverage existing tools like Wolfram Alpha API to handle more of the mathematical processing. Performing tasks in a digital environment allows for an increased amount of data to be gathered, which can then be used in the measurement of performance.
 
 ## Future Discussion
-Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
+##### Things to add:
+ Difficulty modes/scaling, guidance/feedback mode, testing mode. More possible operations/complexity, application extension mode. Accessibility features, size scaling, visual and audio tools. Teacher/proctor analytics/controls
+##### How we would use the tool right now:
+ Check for understanding of basic equation manipulation. Test current hypotheses (Cognitive Load, Performance, Complexity), gauge further interest.
+##### How we would use the tool in the future:
+ Add research questions on how the tool helps students transfer knowledge through application. Can test use of learning versus testing modes. Can better reach all audiences that may have use of the tool.
+###### Future Research Question:
+ Practical Application: How does VR help learners understand algebraic skills and their transfer between similar and distinct applications? (between classroom and practical applications)
 
 
 ## References
