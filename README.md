@@ -86,7 +86,14 @@ Performance: There will be a statistically significant difference as measured by
 Complexity: There will be a statistically significant difference between high and low complexity scores based on performance parameters under the VR condition.
 
 #### Equipment or Apparatus
+###### Headset:
+ The Oculus Rift S was selected for this program due to the motion tracking support as well as motion driven controllers. The motion tracking feature tracks where the user is looking, which supports analytics about what the user is focusing on. Hand tracking allows users to interact with objects in the virtual environment using their hands.
 
+###### Game Engine:
+ The game engine chosen was Unity V2019.2.15 due to familiarity, Oculus SDK support and stability. Unity supports rapid prototyping and small independent game developers with its ease of use and stability. It also has good synergy with the Oculus Rift S by working alongside Oculus to incorporate its features.
+
+###### Coding IDE:
+Visual Studios 2019 was used due to the built in debugging process for Unity, making this an easy IDE to develop code in Unity. It is developed and maintained by Microsoft, ensuring its stability and support of the .Net framework.
 
 #### Materials, Tests, Tasks, and Stimuli
 
@@ -101,6 +108,8 @@ The System Usability Scale (SUS) uses a Likert scale format consisting of 10 que
 ###### Technology Acceptance Model (TAM; Davis, 1989)
 The Technology Acceptance Model (TAM) is used to help researchers assess likelihood of use for a piece of technology. The questionnaire consists of 2 parts with 6 items to measure usefulness and 6 items to measure ease of use. Participants are asked to provide their level of agreement on a 7-point Likert scale. Davis also demonstrated high reliability levels with perceived usefulness ranging from 0.92-0.98 and ease of use ranging from 0.90-0.94.
 
+###### Virtual Reality Sickness Questionnaire (VRSQ; Kim et al., 2018)
+Gauges what extent participants experience motion sickness. The questionnaire consists of 9 items evaluating oculomotor and disorientation  feeling using the technology.
 
 #### Experimental Design
 The experiment is a mixed design with a two-level between subjects factor (VR or Traditional instruction) and a two level within-subjects factor of complexity (All participants will go through both low and high complex algebraic equations).
