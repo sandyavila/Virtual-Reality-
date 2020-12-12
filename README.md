@@ -194,7 +194,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 * 20/c  +  5 = 17 -  3/c
 * 5/x + 7 = 4/x - 9
 * C=(5/9)(F−32)  Solve for F (temperature conversion formula)
-* (image needs added)   Solve for v (Coefficient of lift formula)
+* Solve for v (Coefficient of lift formula)
 
 
 Extension/application could be making equation from word problems
