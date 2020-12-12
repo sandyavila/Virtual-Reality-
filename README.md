@@ -204,7 +204,7 @@ Extension/application could be making equation from word problems
 
 [Link to VR Tool Demonstration Video](https://youtu.be/C9EwWUbGBoI)
 
-## Expected Research Study results
+## Expected Research Study Results
 Our team was not able to complete a fully operational VR tool that could be run through a proper research study. However, in using the above related works which speak to our project’s hypotheses we can expect our VR application to perform in the following ways based on the three main areas of our research questions and proposed hypotheses:  
 
 ##### Cognitive Load:
@@ -248,12 +248,15 @@ Azevedo, R., Taub, M., Mudrick, N. V., Millar, G. C., Bradbury, A. E., & Price, 
 Bangor, A., Kortum, P., & Miller, J. (2009). Determining what individual SUS scores mean: Adding an adjective rating scale. Journal of usability studies, 4(3), 114-123.
 
 Battiste, V., & Bortolussi, M. (1988). Transport pilot workload: A comparison of two subjective techniques. In Proceedings of the Human Factors Society Thirty‐Second Annual Meeting (pp. 150– 154). Santa Monica, CA: Human Factors Society.
+
 Bonwell, C. C., & Eison, J. A. (1991). Active Learning: Creating Excitement in the Classroom. ERIC Digest.
+
 Brooke, J. (1996). SUS: A "quick and dirty" usability scale. In P W Jordan, B Thomas, B A Weerdmeester & A L McClelland (eds.) Usability Evaluation in Industry. London: Taylor and Francis. 
 
 Bruner, J. (1990). Acts of meaning. Harvard University Press, Cambridge. 
 
 Chinn, C. A., & Brewer, W. F. (2008). The role of anomalous data in knowledge acquisition: a theoretical framework and implications for science instruction. Review of Educational Research, 63(1), 1–49.
+
 Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Q. 13 (3), 319.
 
 Freina, L., Bottino, R., & Tavella, M. (2016). From e-learning to VR-learning: an example of learning in an immersive virtual world. Journal of e-learning and knowledge society, 12(2).
@@ -261,18 +264,29 @@ Freina, L., Bottino, R., & Tavella, M. (2016). From e-learning to VR-learning: a
 Gholami, S., & Bagheri, M. S. (2013). Relationship between VAK learning styles and problem solving styles regarding gender and students’ fields of study. Journal of Language Teaching and Research, 4(4), 700-706.
 
 Gross, J. J. (Ed.). (2013). Handbook of emotion regulation. Guilford publications.
+
 Hart, S., Staveland, L. (1988). Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. In Hancock, P., Meshkati, N. (Eds.), Human mental workload (pp. 139-183). Amsterdam: North Holland.
+
 Hattie, J., Yates, G., (2014). Using feedback to promote learning: applying science of learning in education: infusing psychological science into the curriculum. Technological Psychology, 45–58.
+
 Heid, M. K., Thomas, M. O., & Zbiek, R. M. (2012). How might computer algebra systems change the role of algebra in the school curriculum?. In Third international handbook of mathematics education (pp. 597-641). Springer, New York, NY.
+
 Hoonakker, P., Carayon, P., Gurses, A. P., Brown, R., Khunlertkit, A., McGuire, K., & Walker, J. M. (2011). Measuring workload of ICU nurses with a questionnaire survey: the NASA Task Load Index (TLX). IIE transactions on healthcare systems engineering, 1(2), 131-143.
 
 Kim, H. K., Park, J., Choi, Y., & Choe, M. (2018). Virtual reality sickness questionnaire (VRSQ): Motion sickness measurement index in a virtual reality environment. Applied ergonomics, 69, 66-73.
+
 Kirschner , P., Sweller, J., & Clark, R.E. (2006). Why minimal guidance during instruction does not work: an analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching, Educational Psychologist, 4(2), 75-86.
+
 Marshall, J. C., Horton, B., & Smart, J. (2009). 4E× 2 instructional model: Uniting three learning constructs to improve praxis in science and mathematics classrooms. Journal of Science Teacher Education, 20(6), 501-516.
+
 Mayer, R. E., & Wittrock, M. C. (1996). Problem solving transfer. In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 47–62). New York: Macmillan.
+
 McGregor, D. (2007). Developing thinking; developing learning. McGraw-Hill Education (UK).
+
 Minner, D. D., Levy, A. J., & Century, J. (2010). Inquiry‐based science instruction—what is it and does it matter? Results from a research synthesis years 1984 to 2002. Journal of Research in Science Teaching: The Official Journal of the National Association for Research in Science Teaching, 47(4), 474-496.
+
 National Research Council. (2011). Successful K-12 STEM education: Identifying effective approaches in science, technology, engineering, and mathematics. National Academies Press.
+
 Preciado-Babb, P., Metz, M., Sabbaghan, S., & Davis, B. (2015). Insights on the Relationships between Mathematics Knowledge for Teachers and Curricular Material. North American Chapter of the International Group for the Psychology of Mathematics Education.
  
 Prince, M., Aburdene, M., Hoyt, B., Hyde, D., Mastascusa, E. J., Pease, L., & Vigeant, M. (2001, June). Project Catalyst: Successes and Frustrations of Introducing Systemic Change to Engineering Education. In Proceedings, ASEE Annual Meeting.
