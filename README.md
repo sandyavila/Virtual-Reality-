@@ -45,8 +45,11 @@ According to Fregina, Bottino, & Travella (2016), in VR, a learner is provided w
 ##### Contributions
 This project makes the following contributions:
 	* Increase ease of learning
+	
 	* Increase mathematics literacy
+	
 	* Decrease frustration with math
+	
 	* Increase accessibility to STEM careers for underrepresented groups
 
 
@@ -170,6 +173,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 * −f+4+6f=10−4f
 * 3c+27.2=15.5+7c
 * 4a+5=2+3.25a
+
 ![Easy VR Tool Example](Images/EasyToolSnip.png)
 
 ##### Medium
