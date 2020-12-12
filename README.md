@@ -44,6 +44,7 @@ According to Fregina, Bottino, & Travella (2016), in VR, a learner is provided w
 
 ##### Contributions
 This project makes the following contributions:
+
 	* Increase ease of learning
 	
 	* Increase mathematics literacy
@@ -168,6 +169,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 ##### Easy
 (addition, subtraction, multiplication, and division. Variable only as numerator)
 * 3x + 5 = 7x - 3      
+
 ![Image of problem steps and answer](Images/AlgebraEasyExample1.png)
 * 24 - 8x = 6x - 4
 * −f+4+6f=10−4f
@@ -183,6 +185,7 @@ During our brainstorming process, we used simple drawings to visualize how to de
 * 16−2t=(3/2)t+9
 * 5(z + 1) = 3(z + 2) + 11
 * (x – 2) / 4 – (3x + 5) / 7 = – 3
+
 ![Medium VR Tool Example](Images/MediumToolSnip.png)
 
 ##### Harder
@@ -206,12 +209,15 @@ Our team was not able to complete a fully operational VR tool that could be run 
 
 ##### Cognitive Load:
 Research Question: How does VR affect cognitive load between low and high level algebraic math skill tasks?
+
 Our VR application will provide participants with a significant decrease in cognitive load as they walk through algebraic formula equations using the technology compared to the traditional paper format learning exercise. As the complexity level of the math skills increase, we can expect that learners using the VR application will also see a significant decrease in cognitive load as the technology should assist the learners through difficult steps by way of assisted tutorials and online help tools. When comparing the NASA-TLX scores among participants, we can assume those running through the VR condition would have lower scores compared to the traditional format.  
 ##### Performance:
 Research Question: What is the difference in situational awareness (SA) measured by response time and accuracy based upon the algebraic math skill task in VR?
+
 Our VR application will guide learners to perform better by having a lower time on task and quicker response time compared to those participants taking traditional paper tests. The VR tools will allow users to have an improved spatial awareness which will help their performance on algebraic formula manipulations.
 ##### Complexity:
 Research Question: How does VR affect how participants handle the difference between low and high level complexity of algebraic math skill tasks?
+
 In comparing the differences between low and high level complexity algebraic math skill tasks using VR, we can assume that our learners will handle the complex skills more easily based on the assisted tutorials and through the ease of use of an immersive, kinetic learning environment.
 
 
@@ -233,62 +239,55 @@ In conclusion, the biggest lesson learned was that as the complexity in the alge
 
 ## References
 
-Antonioli, M., Blake, C., & Sparks, K. (2014). Augmented reality applications in education. The Journal of Technology Studies, 96-107.
+Allcoat, D., & von Mühlenen, A. (2018). Learning in virtual reality: Effects on performance, emotion and engagement. Research in Learning Technology, 26.
 
 Azevedo, R., & Gašević, D. (2019). Analyzing multimodal multichannel data about self-regulated learning with advanced learning technologies: Issues and challenges.
-
+ 
 Azevedo, R., Taub, M., Mudrick, N. V., Millar, G. C., Bradbury, A. E., & Price, M. J. (2017). Using data visualizations to foster emotion regulation during self-regulated learning with advanced learning technologies. In Informational environments (pp. 225-247). Springer, Cham.
 
-Barrett, R., Gandhi, H. A., Naganathan, A., Daniels, D., Zhang, Y., Onwunaka, C., ... & White, A. D. (2018). Social and tactile mixed reality increases student engagement in undergraduate lab activities. Journal of Chemical Education, 95(10), 1755-1762.
+Bangor, A., Kortum, P., & Miller, J. (2009). Determining what individual SUS scores mean: Adding an adjective rating scale. Journal of usability studies, 4(3), 114-123.
 
+Battiste, V., & Bortolussi, M. (1988). Transport pilot workload: A comparison of two subjective techniques. In Proceedings of the Human Factors Society Thirty‐Second Annual Meeting (pp. 150– 154). Santa Monica, CA: Human Factors Society.
 Bonwell, C. C., & Eison, J. A. (1991). Active Learning: Creating Excitement in the Classroom. ERIC Digest.
+Brooke, J. (1996). SUS: A "quick and dirty" usability scale. In P W Jordan, B Thomas, B A Weerdmeester & A L McClelland (eds.) Usability Evaluation in Industry. London: Taylor and Francis. 
 
-Bruner, J. (1990). Acts of meaning. Harvard University Press, Cambridge.
-
-Burrows, A., Lockwood, M., Borowczak, M., Janak, E., & Barber, B. (2018). Integrated STEM: Focus on informal education and community collaboration through engineering. Education Sciences, 8(1), 4.
+Bruner, J. (1990). Acts of meaning. Harvard University Press, Cambridge. 
 
 Chinn, C. A., & Brewer, W. F. (2008). The role of anomalous data in knowledge acquisition: a theoretical framework and implications for science instruction. Review of Educational Research, 63(1), 1–49.
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Q. 13 (3), 319.
+
+Freina, L., Bottino, R., & Tavella, M. (2016). From e-learning to VR-learning: an example of learning in an immersive virtual world. Journal of e-learning and knowledge society, 12(2).
 
 Gholami, S., & Bagheri, M. S. (2013). Relationship between VAK learning styles and problem solving styles regarding gender and students’ fields of study. Journal of Language Teaching and Research, 4(4), 700-706.
 
-Griss, S. 2013. The power of movement in teaching and learning. EdWeek. http://bit.ly/2nRDjPE​
-
-Hall, C. R., Stiles, R. J., & Horwitz, C. D. (1998, March). Virtual reality for training: Evaluating knowledge retention. In Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180) (pp. 184-189). IEEE.
-
+Gross, J. J. (Ed.). (2013). Handbook of emotion regulation. Guilford publications.
+Hart, S., Staveland, L. (1988). Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. In Hancock, P., Meshkati, N. (Eds.), Human mental workload (pp. 139-183). Amsterdam: North Holland.
 Hattie, J., Yates, G., (2014). Using feedback to promote learning: applying science of learning in education: infusing psychological science into the curriculum. Technological Psychology, 45–58.
+Heid, M. K., Thomas, M. O., & Zbiek, R. M. (2012). How might computer algebra systems change the role of algebra in the school curriculum?. In Third international handbook of mathematics education (pp. 597-641). Springer, New York, NY.
+Hoonakker, P., Carayon, P., Gurses, A. P., Brown, R., Khunlertkit, A., McGuire, K., & Walker, J. M. (2011). Measuring workload of ICU nurses with a questionnaire survey: the NASA Task Load Index (TLX). IIE transactions on healthcare systems engineering, 1(2), 131-143.
 
-Hwang, W. Y., & Hu, S. S. (2013). Analysis of peer learning behaviors using multiple representations in virtual reality and their impacts on geometry problem solving. Computers & Education, 62, 308-319.
-
-Ibáñez, M. B., & Delgado-Kloos, C. (2018). Augmented reality for STEM learning: A systematic review. Computers & Education, 123, 109-123.
-
-Jackson, C., Appelgate, M., Seiler, G., Sheth, M., & Nadolny, L. (2016). Using a Virtual Environment to Uncover Biases, Assumptions, and Beliefs and Implications for Mathematics Teaching. Conference Papers -- Psychology of Mathematics & Education of North America, 1333–1336.
-
-Kaufmann, H., Schmalstieg, D., & Wagner, M. (2000). Construct3D: a virtual reality application for mathematics and geometry education. Education and information technologies, 5(4), 263-276.
-
-Khan, M., Trujano, F., & Maes, P. (2018, June). Mathland: Constructionist Mathematical Learning in the Real World Using Immersive Mixed Reality. In International Conference on Immersive Learning (pp. 133-147). Springer, Cham.
-
+Kim, H. K., Park, J., Choi, Y., & Choe, M. (2018). Virtual reality sickness questionnaire (VRSQ): Motion sickness measurement index in a virtual reality environment. Applied ergonomics, 69, 66-73.
 Kirschner , P., Sweller, J., & Clark, R.E. (2006). Why minimal guidance during instruction does not work: an analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching, Educational Psychologist, 4(2), 75-86.
-
-Kuo, H. C., Tseng, Y. C., & Yang, Y. T. C. (2019). Promoting college student’s learning motivation and creativity through a STEM interdisciplinary PBL human-computer interaction system design and development course. Thinking Skills and Creativity, 31, 1-10.
-
-Lai, A. F., Chen, C. H., & Lee, G. Y. (2019). An augmented reality‐based learning approach to enhancing students’ science reading performances from the perspective of the cognitive load theory. British Journal of Educational Technology, 50(1), 232-247.
-
-Marshall, J. C., Horton, B., & Smart, J. (2008). 4E x 2 Instructional Model: Uniting Three Learning Constructs to Improve Praxis in Science and Mathematics Classrooms. Springer Science+Business Media, B.V.​
-
+Marshall, J. C., Horton, B., & Smart, J. (2009). 4E× 2 instructional model: Uniting three learning constructs to improve praxis in science and mathematics classrooms. Journal of Science Teacher Education, 20(6), 501-516.
 Mayer, R. E., & Wittrock, M. C. (1996). Problem solving transfer. In D. C. Berliner & R. C. Calfee (Eds.), Handbook of educational psychology (pp. 47–62). New York: Macmillan.
-
-Miller, D., & Dousay, T. (2015). Implementing augmented reality in the classroom. Issues and Trends in Educational Technology, 3(2).
-
+McGregor, D. (2007). Developing thinking; developing learning. McGraw-Hill Education (UK).
+Minner, D. D., Levy, A. J., & Century, J. (2010). Inquiry‐based science instruction—what is it and does it matter? Results from a research synthesis years 1984 to 2002. Journal of Research in Science Teaching: The Official Journal of the National Association for Research in Science Teaching, 47(4), 474-496.
+National Research Council. (2011). Successful K-12 STEM education: Identifying effective approaches in science, technology, engineering, and mathematics. National Academies Press.
+Preciado-Babb, P., Metz, M., Sabbaghan, S., & Davis, B. (2015). Insights on the Relationships between Mathematics Knowledge for Teachers and Curricular Material. North American Chapter of the International Group for the Psychology of Mathematics Education.
+ 
+Prince, M., Aburdene, M., Hoyt, B., Hyde, D., Mastascusa, E. J., Pease, L., & Vigeant, M. (2001, June). Project Catalyst: Successes and Frustrations of Introducing Systemic Change to Engineering Education. In Proceedings, ASEE Annual Meeting.
+ 
 Radu, I. (2012). Why should my students use AR? A comparative review of the educational impacts of augmented-reality. 2012 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Mixed and Augmented Reality (ISMAR),  IEEE International Symposium, 313.
 
-Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8.
+Reeves, T. C., Herrington, J., & Oliver, R. (2002). Authentic activities and online learning.
+ 
+Saidin, N. F., Abd Halim, N. D., & Yahaya, N. (2015). A review of research on augmented reality in education: Advantages and applications. International Education Studies, 8, 1–8. 
 
 Sweller, J. (1989). Cognitive technology: Some procedures for facilitating learning and problem solving in mathematics and science. Journal of educational psychology, 81(4), 457.
 
-Wilson, Robert A. and Lucia Foglia, "Embodied Cognition", The Stanford Encyclopedia of Philosophy (Spring 2017 Edition), Edward N. Zalta (ed.)
+Wilson, R. A. (2017). Externalism and Internalism in the Philosophy of Mind.
 
-​
+Xiao, Y. M., Wang, Z. M., Wang, M. Z., & Lan, Y. J. (2005). The appraisal of reliability and validity of subjective workload assessment technique and NASA-task load index. Zhonghua lao dong wei sheng zhi ye bing za zhi= Zhonghua laodong weisheng zhiyebing zazhi= Chinese journal of industrial hygiene and occupational diseases, 23(3), 178-181.
 
+Yoon, H. G., Joung, Y. J., & Kim, M. (2012). The challenges of science inquiry teaching for pre-service teachers in elementary classrooms: Difficulties on and under the scene. Research in Science Education, 42(3), 589-608.
 
-
-​
